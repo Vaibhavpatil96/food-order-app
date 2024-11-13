@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Paneer Butter Masala",
+    "price": "280",
+    "description": "Soft cubes of paneer cooked in a creamy tomato-based curry with a hint of spice.",
+    "image": "images/paneer-butter-masala.webp"
+  },
+  {
+    "id": "m2",
+    "name": "Margherita Naan Pizza",
+    "price": "350",
+    "description": "Classic naan pizza topped with mozzarella, fresh tomatoes, and basil.",
+    "image": "images/margherita-naan-pizza.webp"
+  },
+  {
+    "id": "m3",
+    "name": "Kachumber Salad",
+    "price": "120",
+    "description": "A fresh mix of cucumber, tomatoes, and onions, seasoned with chaat masala and lemon juice.",
+    "image": "images/kachumber-salad.webp"
+  },
+  {
+    "id": "m4",
+    "name": "Hyderabadi Biryani",
+    "price": "320",
+    "description": "Aromatic basmati rice layered with marinated chicken, spices, and fried onions.",
+    "image": "images/hyderabadi-biryani.webp"
+  },
+  {
+    "id": "m5",
+    "name": "Aloo Tikki Burger",
+    "price": "150",
+    "description": "A spicy aloo tikki served on a bun with lettuce, tomato, and mint chutney.",
+    "image": "images/aloo-tikki-burger.webp"
+  },
+  {
+    "id": "m6",
+    "name": "Chicken Tikka Wrap",
+    "price": "200",
+    "description": "Juicy chicken tikka wrapped in a warm naan with onions, cucumber, and mint chutney.",
+    "image": "images/chicken-tikka-wrap.webp"
+  },
+  {
+    "id": "m7",
+    "name": "Tandoori Platter",
+    "price": "550",
+    "description": "An assortment of tandoori meats including chicken, lamb, and prawns, served with mint chutney.",
+    "image": "images/tandoori-platter.webp"
+  },
+  {
+    "id": "m8",
+    "name": "Indian Thali",
+    "price": "300",
+    "description": "A traditional thali with roti, rice, dal, sabzi, raita, and a sweet treat.",
+    "image": "images/indian-thali.webp"
+  },
+  {
+    "id": "m9",
+    "name": "Butter Chicken",
+    "price": "320",
+    "description": "Tender pieces of chicken in a creamy and aromatic tomato-based curry, served with naan.",
+    "image": "images/butter-chicken.webp"
+  },
+  {
+    "id": "m10",
+    "name": "Vegan Buddha Bowl",
+    "price": "250",
+    "description": "A wholesome bowl with quinoa, roasted vegetables, fresh greens, and coconut dressing.",
+    "image": "images/vegan-buddha-bowl.webp"
+  },
+  {
+    "id": "m11",
+    "name": "Prawn Pulao",
+    "price": "400",
+    "description": "Flavorful basmati rice cooked with fresh prawns, spices, and herbs.",
+    "image": "images/prawn-pulao.webp"
+  },
+  {
+    "id": "m12",
+    "name": "Gulab Jamun",
+    "price": "80",
+    "description": "Soft, syrupy dough balls soaked in rose-flavored sugar syrup.",
+    "image": "images/gulab-jamun.webp"
+  },
+  {
+    "id": "m13",
+    "name": "Masala Dosa",
+    "price": "150",
+    "description": "A thin, crispy rice crepe filled with spiced mashed potatoes, served with chutney and sambar.",
+    "image": "images/masala-dosa.webp"
+  },
+  {
+    "id": "m14",
+    "name": "Chicken Kathi Rolls",
+    "price": "200",
+    "description": "Two soft rolls filled with spiced chicken, onions, and chutney.",
+    "image": "images/chicken-kathi-rolls.webp"
+  },
+  {
+    "id": "m15",
+    "name": "Sizzling Brownie",
+    "price": "180",
+    "description": "A warm brownie served on a sizzling plate with vanilla ice cream and chocolate sauce.",
+    "image": "images/sizzling-brownie.webp"
+  },
+  {
+    "id": "m16",
+    "name": "Tomato Shorba",
+    "price": "100",
+    "description": "A spiced tomato soup with aromatic Indian herbs and spices.",
+    "image": "images/tomato-shorba.webp"
+  },
+  {
+    "id": "m17",
+    "name": "Mushroom Curry",
+    "price": "220",
+    "description": "Mushrooms cooked in a creamy, spiced gravy with Indian herbs.",
+    "image": "images/mushroom-curry.webp"
+  },
+  {
+    "id": "m18",
+    "name": "Baingan Bharta",
+    "price": "180",
+    "description": "Smoky mashed eggplant cooked with onions, tomatoes, and spices.",
+    "image": "images/baingan-bharta.webp"
+  },
+  {
+    "id": "m19",
+    "name": "Mango Cheesecake",
+    "price": "150",
+    "description": "Creamy mango-flavored cheesecake on a crumbly base.",
+    "image": "images/mango-cheesecake.webp"
+  },
+  {
+    "id": "m20",
+    "name": "Paneer Kathi Roll",
+    "price": "150",
+    "description": "A wrap filled with spiced paneer cubes, fresh veggies, and chutney.",
+    "image": "images/paneer-kathi-roll.webp"
+  }
+]
